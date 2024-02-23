@@ -35,7 +35,9 @@ exchange <amount> <from_currency> to <to_currency>
 ```
 bash release.sh
 
-./exchange 100 usd to eur
+./exchange 100 usd to dkk
+>> Converted amount: 689.00 DKK
+
 ```
 
 ## Tests

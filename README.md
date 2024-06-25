@@ -28,15 +28,16 @@ To use Currency Converter, follow these steps:
 
 ```
 exchange <amount> <from_currency> to <to_currency>
+
+./exchange 100 usd to dkk
+>> Converted amount: 689.00 DKK
+
 ```
 
 ## Release & Run
 
 ```
 bash release.sh
-
-./exchange 100 usd to dkk
->> Converted amount: 689.00 DKK
 
 ```
 
